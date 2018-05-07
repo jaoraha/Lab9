@@ -1,3 +1,7 @@
+// Title: Lab No 9
+// Author: John Aoraha
+// Date: May 7, 2018
+
 import java.util.Scanner;
 
 public class CircleApp {
